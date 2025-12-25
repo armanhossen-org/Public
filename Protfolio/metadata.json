@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Portfolio & Admin Panel",
+  "description": "A professional, modern portfolio and admin panel website using React, TypeScript, and Tailwind CSS, powered by Supabase for authentication, database, and storage.",
+  "requestFramePermissions": []
+}
