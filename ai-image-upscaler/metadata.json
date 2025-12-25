@@ -1,0 +1,5 @@
+{
+  "name": "Super-fast AI Image Upscaler",
+  "description": "Upscale images up to 16x with Topaz-quality enhancement using the Hugging Face API. Features real-time previews, DPI selection, and a responsive modern UI.",
+  "requestFramePermissions": []
+}
